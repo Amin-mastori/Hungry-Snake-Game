@@ -33,7 +33,8 @@ python snake_game.py
 ## Gameplay Demonstration
 Here is a demo video showcasing the gameplay:
 
-![Game Demo](Gameplay\HungrySnake_Gameplay.mp4)
+##  Gameplay Demo
+[Click here to watch the gameplay](https://github.com/Amin-mastori/Hungry-Snake-Game/raw/main/Gameplay/HungrySnake_Gameplay.mp4)
 
 ## Code Explanation
 ### 1. **SnakeGameClass**
